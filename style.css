@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.myDiv{
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    background-color: #000;
+    border-radius: 20%;
+}
+
+.myUnorderedList{
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    background-color: #000;
+    border-radius: 20%;
+}
